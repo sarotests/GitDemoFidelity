@@ -6,7 +6,7 @@ public class CoreJavaStrings {
 		// TODO Auto-generated method stub
 		
 		
-		String s = "Saro is working in Fidelity with good salary";
+		String s = "Saro is working in Fidelity with good salary yesss";
 		String [] splittedString = s.split("working");
 		
 		for (String s1 :splittedString)
